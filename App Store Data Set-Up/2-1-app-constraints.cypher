@@ -1,0 +1,2 @@
+//2.1 App Constraints
+CREATE CONSTRAINT ON (a:App) ASSERT a.appId IS UNIQUE
